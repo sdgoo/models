@@ -1,4 +1,3 @@
-
 {
   "Generator": "OpenSceneGraph 3.1.4",
   "Version": 7,
@@ -24,7 +23,7 @@
                             "Indices": {
                               "Array": {
                                 "Uint16Array": {
-                                  "File": "model.bin.gz",
+                                  "File": "https://raw.githubusercontent.com/sdgoo/models/master/899909e16ef447578d912f4bf616ccd6/model.bin.gz",
                                   "Size": 396,
                                   "Offset": 0
                                 }
@@ -41,7 +40,7 @@
                             "Indices": {
                               "Array": {
                                 "Uint16Array": {
-                                  "File": "model.bin.gz",
+                                  "File": "https://raw.githubusercontent.com/sdgoo/models/master/899909e16ef447578d912f4bf616ccd6/model.bin.gz",
                                   "Size": 170853,
                                   "Offset": 792
                                 }
@@ -58,7 +57,7 @@
                           "UniqueID": 7,
                           "Array": {
                             "Float32Array": {
-                              "File": "model.bin.gz",
+                              "File": "https://raw.githubusercontent.com/sdgoo/models/master/899909e16ef447578d912f4bf616ccd6/model.bin.gz",
                               "Size": 65536,
                               "Offset": 342500
                             }
@@ -70,7 +69,7 @@
                           "UniqueID": 9,
                           "Array": {
                             "Float32Array": {
-                              "File": "model.bin.gz",
+                              "File": "https://raw.githubusercontent.com/sdgoo/models/master/899909e16ef447578d912f4bf616ccd6/model.bin.gz",
                               "Size": 65536,
                               "Offset": 1128932
                             }
@@ -82,7 +81,7 @@
                           "UniqueID": 8,
                           "Array": {
                             "Float32Array": {
-                              "File": "model.bin.gz",
+                              "File": "https://raw.githubusercontent.com/sdgoo/models/master/899909e16ef447578d912f4bf616ccd6/model.bin.gz",
                               "Size": 65536,
                               "Offset": 2177508
                             }
@@ -94,7 +93,7 @@
                           "UniqueID": 6,
                           "Array": {
                             "Float32Array": {
-                              "File": "model.bin.gz",
+                              "File": "https://raw.githubusercontent.com/sdgoo/models/master/899909e16ef447578d912f4bf616ccd6/model.bin.gz",
                               "Size": 65536,
                               "Offset": 2701796
                             }
@@ -115,7 +114,7 @@
                             "Indices": {
                               "Array": {
                                 "Uint16Array": {
-                                  "File": "model.bin.gz",
+                                  "File": "https://raw.githubusercontent.com/sdgoo/models/master/899909e16ef447578d912f4bf616ccd6/model.bin.gz",
                                   "Size": 15,
                                   "Offset": 3488228
                                 }
@@ -132,7 +131,7 @@
                             "Indices": {
                               "Array": {
                                 "Uint16Array": {
-                                  "File": "model.bin.gz",
+                                  "File": "https://raw.githubusercontent.com/sdgoo/models/master/899909e16ef447578d912f4bf616ccd6/model.bin.gz",
                                   "Size": 12917,
                                   "Offset": 3488260
                                 }
@@ -149,7 +148,7 @@
                           "UniqueID": 14,
                           "Array": {
                             "Float32Array": {
-                              "File": "model.bin.gz",
+                              "File": "https://raw.githubusercontent.com/sdgoo/models/master/899909e16ef447578d912f4bf616ccd6/model.bin.gz",
                               "Size": 5147,
                               "Offset": 3514096
                             }
@@ -161,7 +160,7 @@
                           "UniqueID": 16,
                           "Array": {
                             "Float32Array": {
-                              "File": "model.bin.gz",
+                              "File": "https://raw.githubusercontent.com/sdgoo/models/master/899909e16ef447578d912f4bf616ccd6/model.bin.gz",
                               "Size": 5147,
                               "Offset": 3575860
                             }
@@ -173,7 +172,7 @@
                           "UniqueID": 15,
                           "Array": {
                             "Float32Array": {
-                              "File": "model.bin.gz",
+                              "File": "https://raw.githubusercontent.com/sdgoo/models/master/899909e16ef447578d912f4bf616ccd6/model.bin.gz",
                               "Size": 5147,
                               "Offset": 3658212
                             }
@@ -185,7 +184,7 @@
                           "UniqueID": 13,
                           "Array": {
                             "Float32Array": {
-                              "File": "model.bin.gz",
+                              "File": "https://raw.githubusercontent.com/sdgoo/models/master/899909e16ef447578d912f4bf616ccd6/model.bin.gz",
                               "Size": 5147,
                               "Offset": 3699388
                             }
